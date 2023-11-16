@@ -2,3 +2,4 @@ env
 src/config.py
 log
 src/__pycache__
+*.log
